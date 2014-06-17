@@ -1,0 +1,6 @@
+c:\users\admin\documents\visual studio 2012\Projects\ChallengeInstantiate\ChallengeInstantiate\bin\Debug\ChallengeInstantiate.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\ChallengeInstantiate\ChallengeInstantiate\bin\Debug\ChallengeInstantiate.exe
+c:\users\admin\documents\visual studio 2012\Projects\ChallengeInstantiate\ChallengeInstantiate\bin\Debug\ChallengeInstantiate.pdb
+c:\users\admin\documents\visual studio 2012\Projects\ChallengeInstantiate\ChallengeInstantiate\obj\Debug\ChallengeInstantiate.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\ChallengeInstantiate\ChallengeInstantiate\obj\Debug\ChallengeInstantiate.exe
+c:\users\admin\documents\visual studio 2012\Projects\ChallengeInstantiate\ChallengeInstantiate\obj\Debug\ChallengeInstantiate.pdb
